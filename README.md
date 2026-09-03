@@ -1,16 +1,9 @@
-# Informatique — exercise archive
+# Informatique exercises
 
-Exercise sheets and session materials from the summer informatique intensives at Lycée Pilote Manouba, where I have been a co-instructor for four summers (2023–2026): algorithmique and Python, taught to students my own age — I run a year ahead of the official program, so I teach the material the year before I sit it myself.
+For four summers (2023–2026) I have co-taught group informatique sessions in Manouba — the kind Tunisians call études: anyone in the region can register, and most of the students are my own age. I run a year ahead of the school program, so each summer I teach material a year before I sit it myself. Algorithmique and Python, in French, following the official curriculum.
 
-## What is here
+This is the exercise archive: the sheets and worked solutions I wrote for those sessions, added year by year as I digitise them.
 
-The exercise packs and worked solutions I authored for the sessions, organised by year as they are digitised. Most sheets are in French, matching the official curriculum.
+One note on dates. I started this repo in September 2026 to archive work that already existed on paper, so commit dates are upload dates, nothing more.
 
-## A note on dates
-
-This repository was created in September 2026 as a retrospective archive: the sheets carry their original content, and commit dates are upload dates, not authorship dates. Nothing here is backdated.
-
-## License
-
-CC BY 4.0 — use the sheets, credit the source.
-
+CC BY 4.0 — take the sheets, credit the source.
